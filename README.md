@@ -1,5 +1,5 @@
 Implementation of experiments incorporating projection layer to simplify representation of motifs and improve performance in neural networks for regulatory genomics described in [Projection layers improve deep learning models of regulatory DNA function
-(biorxiv)](https://www.biorxiv.org/content/early/2018/09/10/412734)
+(bioRxiv)](https://www.biorxiv.org/content/early/2018/09/10/412734)
 
 ## Training Models
 
