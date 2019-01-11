@@ -12,3 +12,7 @@ Experiment names with associated settings are defined in expset_settings:
 e.g. to run the convolutional recurrent model with 320 first layer filters
 
 python scripts/run_experiments.py final_crnn_320_300rd20
+
+### License
+
+This project is licensed under the terms of the MIT license
